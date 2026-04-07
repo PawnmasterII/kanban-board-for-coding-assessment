@@ -36,6 +36,9 @@ Thumbs.db
 .vercel
 .netlify
 
+# ── Submission / internal docs ────────────────────────────────
+SUBMISSION.md
+
 # ── Logs ──────────────────────────────────────────────────────
 *.log
 npm-debug.log*
